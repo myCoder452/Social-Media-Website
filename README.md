@@ -31,3 +31,6 @@ A full-stack Django-powered news aggregator combining real-time content curation
 - **Storage**: AWS S3 for media management
 - **Security**: CSRF protection, XSS safeguards
 - **API Integration**: NewsAPI | Perspective API
+
+## 📄 License
+MIT License | Copyright (c) 2025 Absobeha Adamu
